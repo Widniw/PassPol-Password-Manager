@@ -5,7 +5,7 @@ Link do prezentacji: https://docs.google.com/presentation/d/1Z_tATawzf0WcXJloLDX
 
 # Zadania
 
-** Zadanie 1 **
+**Zadanie 1**
 >Treść pierwszego
 >Zadania
 ---
