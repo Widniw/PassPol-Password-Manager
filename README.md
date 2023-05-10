@@ -18,6 +18,6 @@ Link do prezentacji: https://docs.google.com/presentation/d/1Z_tATawzf0WcXJloLDX
 > miała napis "My first label".
 ---
 **Zadanie 4**
-!(Zad4.png)
+![Zadanie 4](Zad4.png)
 
 
