@@ -117,4 +117,5 @@ class EditEntry(ctk.CTkToplevel):
             self.db.password_dict[self.folder_name][self.id_]["url"] = self.url_entry.get()
             self.controller.create_folders()
             self.controller.show_frame(self.folder_name)
+            self.db.save_file()
         self.destroy()
