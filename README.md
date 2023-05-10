@@ -18,6 +18,6 @@ Link do prezentacji: https://docs.google.com/presentation/d/1Z_tATawzf0WcXJloLDX
 > miała napis "My first label".
 ---
 **Zadanie 4**
-> Do ramki z zadania 3 dodaj przycisk podpisany "Button", który po wciśnięciu będzie wypisywał na ekran "Button pressed".
+!(Zad4.png)
 
 
