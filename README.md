@@ -18,10 +18,7 @@ Link do prezentacji: https://docs.google.com/presentation/d/1Z_tATawzf0WcXJloLDX
 > miała napis "My first label".
 ---
 **Zadanie 4**
-> <div style="display: flex; align-items: center;">
-    <img src="Zad4.png" alt="My picture" style="margin-right: 10px;">
-    <p>This is my picture.</p>
-</div> 
+> ![](Zad4.png)
 Stworz interfejs przedstawiony na obrazku. Po wciśnięciu przycisku powinno pojawiać się nowe okno.
 
 
