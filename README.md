@@ -12,6 +12,8 @@ Link do prezentacji: https://docs.google.com/presentation/d/1Z_tATawzf0WcXJloLDX
 **Zadanie 2**
 > Zdeszyfruj plik top_secret.txt, wykorzystując hasło "Jp_wP1" i sól "saltsalt". Wykorzystaj w tym celu generowanie klucza
 > za pomocą biblioteki argon2. Zdeszyfrowaną wiadomość wypisz na ekranie.
+> with open("top_secret.txt", 'rb') as f:
+>   cipher = f.read()
 ---
 **Zadanie 3**
 > Za pomocą biblioteki customtkinter stwórz prostą ramkę, która będzie nazwana "My first frame", a na środku będzie
@@ -20,5 +22,10 @@ Link do prezentacji: https://docs.google.com/presentation/d/1Z_tATawzf0WcXJloLDX
 **Zadanie 4**
 > ![](Zad4.png)
 Stworz interfejs przedstawiony na obrazku. Po wciśnięciu przycisku powinno pojawiać się nowe okno.
+Do przycisku przypisz parametr command= lambda: create_window(root), aby pojawiło się okienko.
+>def create_window(root):
+>   new_window = customtkinter.CTkToplevel(root)
+>   new_window.title("New window")
+>   new_window.grab_set()
 
 
